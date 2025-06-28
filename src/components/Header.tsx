@@ -13,26 +13,29 @@ const Header = () => {
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
-          <div className="flex items-center">
-            <img
-              src="/image/logo.png"
-              alt="TreeInova Logo"
-              className="h-10 w-10 mr-3 rounded-full shadow-md object-cover"
-            />
-            <div className="text-3xl font-bold">
-              <span
-                className="bg-clip-text text-transparent"
-                style={{ color: "#4CAF50" }}
-              >
-                Tree
-              </span>
-              <span
-                className="bg-clip-text text-transparent"
-                style={{ color: "#2196F3" }}
-              >
-                Inova
-              </span>
+          <div className="flex flex-col items-center justify-center">
+            <div className="flex items-center">
+              <img
+                src="/image/logo.png"
+                alt="TreeInova Logo"
+                className="h-10 w-10 mr-3 rounded-full shadow-md object-cover"
+              />
+              <div className="text-3xl font-bold">
+                <span
+                  className="bg-clip-text text-transparent"
+                  style={{ color: "#4CAF50" }}
+                >
+                  Tree
+                </span>
+                <span
+                  className="bg-clip-text text-transparent"
+                  style={{ color: "#2196F3" }}
+                >
+                  Inova
+                </span>
+              </div>
             </div>
+            <span className="px-3 text-white ml-12 text-xs tracking-wide">Innovating at the Roots</span>
           </div>
 
           {/* Desktop Navigation */}

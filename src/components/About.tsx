@@ -30,7 +30,7 @@ const About = () => {
   ];
 
   return (
-    <section id="contact" className="relative py-20 overflow-hidden border-b border-gray-200/50">
+    <section id="about" className="relative py-20 overflow-hidden border-b border-gray-200/50">
       {/* Enhanced gradient background */}
       <div
         className="absolute inset-0 "

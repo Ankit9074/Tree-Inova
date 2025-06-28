@@ -3,7 +3,7 @@ import { ArrowRight, Play, Sparkles } from "lucide-react";
 
 const Hero = () => {
   return (
-   <section id="contact" className="relative py-20 overflow-hidden">
+   <section id="home" className="relative py-20 overflow-hidden">
       {/* Enhanced gradient background */}
       <div
         className="absolute inset-0 "

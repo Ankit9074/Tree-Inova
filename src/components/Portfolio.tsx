@@ -47,7 +47,7 @@ const Portfolio = () => {
 
   return (
    <section
-      id="home"
+      id="portfolio"
       className="relative pt-20 pb-16 overflow-hidden border-b border-gray-200/50"
       style={{ backgroundColor: "rgb(17 24 39 / var(--tw-bg-opacity, 1))" }}
     >
