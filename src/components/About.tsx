@@ -37,7 +37,7 @@ const About = () => {
     >
       <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-blue-900/50 to-purple-900/50"></div>
       <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500"></div>
-      {/* Unified dark gradient background */}
+      {/* Unified dark gradient backgroundss */}
       <div className="absolute inset-0"></div>
       {/* Optionally, add a subtle overlay for depth */}
       <div className="absolute inset-0"></div>
