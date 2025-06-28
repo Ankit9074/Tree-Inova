@@ -10,6 +10,7 @@ const Header = () => {
       style={{ backgroundColor: "rgb(17 24 39 / var(--tw-bg-opacity, 1))" }}
       className="fixed top-0 w-full bg-blue/90 backdrop-blur-md border-b border-gray-200/50 z-50 shadow-lg shadow-black/5"
     >
+      
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">

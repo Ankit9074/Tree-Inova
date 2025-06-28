@@ -8,6 +8,8 @@ const Hero = () => {
       className="relative pt-20 pb-16 overflow-hidden border-b border-gray-200/50"
       style={{ backgroundColor: "rgb(17 24 39 / var(--tw-bg-opacity, 1))" }}
     >
+      <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-blue-900/50 to-purple-900/50"></div>
+      <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500"></div>
       {/* Unified dark gradient background */}
       <div className="absolute inset-0"></div>
       {/* Optionally, add a subtle overlay for depth */}
